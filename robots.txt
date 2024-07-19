@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://infonola.github.io/sitemap
+Sitemap: https://infonola.github.io/app/sitemap
+Sitemap: https://infonola.github.io/assets/sitemap
+Sitemap: https://infonola.github.io/css/sitemap
+Sitemap: https://infonola.github.io/includes/sitemap
+Sitemap: https://infonola.github.io/item/sitemap
+Sitemap: https://infonola.github.io/src/sitemap
